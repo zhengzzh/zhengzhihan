@@ -1,6 +1,6 @@
 module.exports = {
   title: 'zheng zh',
-  tagline: 'The tagline of my site',
+  tagline: 'my new website',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -10,7 +10,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'zheng zh',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
@@ -18,7 +18,7 @@ module.exports = {
       items: [
         {
           to: 'docs/',
-          activeBasePath: 'docs',
+          activeBasePath: 'npm run startnpm run startnpm run start',
           label: 'Docs',
           position: 'left',
         },
